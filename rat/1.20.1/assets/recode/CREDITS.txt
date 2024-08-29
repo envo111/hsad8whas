@@ -1,0 +1,25 @@
+the entire browsers section of this was made by the Benadryl devs (https://github.com/AquaNot/Benadryl)
+
+@elpapu (https://github.com/skiesup)
+@vii (https://github.com/violettowo)
+@ablue (https://github.com/AquaNot)
+@wok1337 (https://github.com/wokonly)
+@pathos (No github linked)
+
+again big thanks to them for figuring out cookies and passwords (all the hard stuff) Im too lazy to do <3
+
+
+thx to Schubilegend because i believe most of the browsers code came from his rat
+Vielen Dank an Schubilegend, denn ich glaube, dass der Großteil des Browsercodes von seiner Ratte stammt
+
+@Schubilegend (https://github.com/Schubilegend)
+
+SchubiRat (https://github.com/Schubilegend/SchubiRat)
+
+
+thx to @k3kdude for the webhook class (https://gist.github.com/k3kdude)
+
+************
+NOTE: for anyone cracking this i kindly ask you to not :)
+TGOSG Discord: https://discord.gg/tRHVCAtG58
+************
